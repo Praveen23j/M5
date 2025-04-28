@@ -9,7 +9,7 @@ Write a C program to convert a 23.65 into 25 using pointer
 4.	Print the modified value.
 
 ## PROGRAM:
-```c
+```
 #include <stdio.h>
 
 int main() {
